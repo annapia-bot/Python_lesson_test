@@ -1,7 +1,7 @@
 # Python Lesson
 
-Author: AP
+Author: AP AP
 
-Date: 2019-09-19
+Date: 2019-09-19 B.C.
 
 
